@@ -18,7 +18,7 @@ class Solution {
             return;
         }
 
-        // Take
+
         output.add(candidates[index]);
 
         solve(
