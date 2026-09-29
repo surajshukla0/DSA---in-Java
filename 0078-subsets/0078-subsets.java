@@ -1,0 +1,22 @@
+class Solution {
+    static void solve(int[]nums,int index,List<List<Integer>>ans,List<Integer>output){
+        if(index >= nums.length){
+            ans.add(new ArrayList<>(output));
+            return;
+        }
+            int currValue = nums[index];
+            output.add(currValue);
+            solve(nums,index+1,ans,output);
+            output.remove(output.size()-1);
+            solve(nums,index+1,ans,output);
+        
+    }
+    public List<List<Integer>> subsets(int[] nums) {
+        List<List<Integer>>ans = new ArrayList<>();
+        List<Integer> output = new ArrayList <>();
+        int index = 0;
+        solve(nums,index,ans,output);
+        return ans;
+        
+    }
+}
