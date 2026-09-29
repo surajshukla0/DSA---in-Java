@@ -16,6 +16,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/surajshukla0/DSA---in-Java/tree/master/0231-power-of-two) |
 ## Array
 |  |
@@ -33,4 +34,8 @@
 | [0078-subsets](https://github.com/surajshukla0/DSA---in-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0216-combination-sum-iii) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
