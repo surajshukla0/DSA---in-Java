@@ -29,6 +29,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/surajshukla0/DSA---in-Java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/surajshukla0/DSA---in-Java/tree/master/0078-subsets) |
@@ -38,4 +39,12 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
