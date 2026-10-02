@@ -27,6 +27,7 @@
 | [0051-n-queens](https://github.com/surajshukla0/DSA---in-Java/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/surajshukla0/DSA---in-Java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0090-subsets-ii) |
+| [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/surajshukla0/DSA---in-Java/tree/master/0037-sudoku-solver) |
+| [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -65,4 +67,20 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/surajshukla0/DSA---in-Java/tree/master/0037-sudoku-solver) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
