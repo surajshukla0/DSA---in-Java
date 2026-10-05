@@ -48,6 +48,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
