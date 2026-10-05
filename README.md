@@ -50,6 +50,7 @@
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/surajshukla0/DSA---in-Java/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,4 +99,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/surajshukla0/DSA---in-Java/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
