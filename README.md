@@ -19,6 +19,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/surajshukla0/DSA---in-Java/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -89,5 +91,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
