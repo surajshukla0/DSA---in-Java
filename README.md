@@ -6,6 +6,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/surajshukla0/DSA---in-Java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/surajshukla0/DSA---in-Java/tree/master/0231-power-of-two) |
 ## Bit Manipulation
@@ -17,6 +18,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/surajshukla0/DSA---in-Java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/surajshukla0/DSA---in-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
@@ -45,6 +47,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/surajshukla0/DSA---in-Java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
