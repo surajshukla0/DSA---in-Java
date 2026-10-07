@@ -52,6 +52,7 @@
 | [0061-rotate-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0876-middle-of-the-linked-list) |
@@ -63,6 +64,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/surajshukla0/DSA---in-Java/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -102,6 +104,7 @@
 | ------- |
 | [0061-rotate-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -117,4 +120,5 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
