@@ -20,6 +20,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/surajshukla0/DSA---in-Java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/surajshukla0/DSA---in-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/surajshukla0/DSA---in-Java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -49,6 +50,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/surajshukla0/DSA---in-Java/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/surajshukla0/DSA---in-Java/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0086-partition-list) |
