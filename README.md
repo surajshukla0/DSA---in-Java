@@ -9,6 +9,7 @@
 | [0002-add-two-numbers](https://github.com/surajshukla0/DSA---in-Java/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/surajshukla0/DSA---in-Java/tree/master/0231-power-of-two) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/surajshukla0/DSA---in-Java/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/surajshukla0/DSA---in-Java/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
