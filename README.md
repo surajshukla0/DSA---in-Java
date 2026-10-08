@@ -51,6 +51,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/surajshukla0/DSA---in-Java/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
@@ -103,6 +104,7 @@
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
