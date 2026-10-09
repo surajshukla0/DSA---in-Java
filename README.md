@@ -55,6 +55,7 @@
 | [0061-rotate-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/surajshukla0/DSA---in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/surajshukla0/DSA---in-Java/tree/master/0037-sudoku-solver) |
+| [0138-copy-list-with-random-pointer](https://github.com/surajshukla0/DSA---in-Java/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/surajshukla0/DSA---in-Java/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
