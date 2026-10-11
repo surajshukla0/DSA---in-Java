@@ -70,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/surajshukla0/DSA---in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/surajshukla0/DSA---in-Java/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/surajshukla0/DSA---in-Java/tree/master/0138-copy-list-with-random-pointer) |
@@ -79,6 +80,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/surajshukla0/DSA---in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Algorithm X
 |  |
@@ -141,4 +143,8 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/surajshukla0/DSA---in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
