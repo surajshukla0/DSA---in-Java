@@ -84,6 +84,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/surajshukla0/DSA---in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajshukla0/DSA---in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/surajshukla0/DSA---in-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Algorithm X
 |  |
 | ------- |
@@ -129,6 +130,7 @@
 | [0032-longest-valid-parentheses](https://github.com/surajshukla0/DSA---in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajshukla0/DSA---in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/surajshukla0/DSA---in-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
