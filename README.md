@@ -82,6 +82,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajshukla0/DSA---in-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/surajshukla0/DSA---in-Java/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/surajshukla0/DSA---in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajshukla0/DSA---in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Algorithm X
 |  |
@@ -125,6 +126,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/surajshukla0/DSA---in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajshukla0/DSA---in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/surajshukla0/DSA---in-Java/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -156,5 +158,10 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/surajshukla0/DSA---in-Java/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surajshukla0/DSA---in-Java/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/surajshukla0/DSA---in-Java/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
