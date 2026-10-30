@@ -36,6 +36,7 @@
 | [0090-subsets-ii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/surajshukla0/DSA---in-Java/tree/master/0169-majority-element) |
 | [0216-combination-sum-iii](https://github.com/surajshukla0/DSA---in-Java/tree/master/0216-combination-sum-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/surajshukla0/DSA---in-Java/tree/master/1480-running-sum-of-1d-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -171,4 +172,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/surajshukla0/DSA---in-Java/tree/master/0032-longest-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/surajshukla0/DSA---in-Java/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
